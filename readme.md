@@ -4,7 +4,8 @@ As when we click on the features button then it lead us to a new interface where
 
 * Rectangular channel
 * Rectangular channel with slot
-* MI, and Centroid of One Composite Section Triangular
+* MI, and Centroid of One Composite Section 
+* Triangle
 
 After selection of the task it will lead us to a new interface where we will give the coordinates of the figures and after this it will return the values which we want to find.
 
