@@ -30,3 +30,5 @@ The slots , for the slots we made an algorithm which can handle a maximum of 4 t
 
 Net Moment = Main figure moment about x – Moment of circle about x –Moment of rectangle about x – Moment of triangle about x –Moment of square about x 
 
+For detailed algorithm and project review click on this link (https://github.com/robustTechie/MomentO/blob/master/Mechanics%20Report.pdf)
+
