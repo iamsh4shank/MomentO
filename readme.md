@@ -5,6 +5,8 @@ The aim of my project is to compute the centroid and area moment of inertia of t
 * Rectangular Channel with Slot
 * MI and centroid of One Composite Section
 * Triangle 
+
+
 about x -axis, y-axis and about any given axis.
 
 
